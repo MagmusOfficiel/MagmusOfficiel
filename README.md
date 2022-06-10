@@ -1,6 +1,6 @@
 - 👋 Salut je suis @MagmusOfficiel
 - 👀 Je suis intérésser par le monde du code
-- 🌱 Je suis actuellement d'apprendre à coder du symphony et du Java orienter objet
+- 🌱 Je suis actuellement d'apprendre à coder du symphony et du React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
